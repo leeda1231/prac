@@ -1,3 +1,7 @@
 dlrjtehdkasdhksd
+<<<<<<< HEAD
 ㅇ
 ㅇ
+=======
+slkdhjlasfdlkasflkajs
+>>>>>>> 793fda17931ed614e6bd7086ea21e8f578ccf533
